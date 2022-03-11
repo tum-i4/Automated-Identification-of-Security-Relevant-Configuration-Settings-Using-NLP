@@ -1,0 +1,83 @@
+cff-version: 1.2.0
+title: >-
+  ASE 2022
+message: >-
+  Please cite this software using these metadata.
+type: dataset
+authors:
+- given-names: Patrick
+  family-names: Stöckle
+  email: patrick.stoeckle@tum.de
+  affiliation: Technical University of Munich
+  orcid: 'https://orcid.org/0000-0003-0193-5871'
+  city: Munich
+  country: DE
+  website: https://www.in.tum.de/en/i04/stoeckle/
+- given-names: Theresa
+  family-names: Wasserer
+  email: theresa.wasserer@tum.de
+  affiliation: Technical University of Munich
+  country: DE
+- given-names: Bernd
+  family-names: Grobauer
+  email: bernd.grobauer@siemens.com
+  affiliation: Siemens AG
+  country: DE
+- given-names: Alexander
+  family-names: Pretschner
+  email: alexander.pretschner@tum.de
+  affiliation: Technical University of Munich
+  orcid: 'https://orcid.org/0000-0002-5573-1201'
+  city: Munich
+  country: DE
+  website: https://www.in.tum.de/en/i04/people/alexander-pretschner/
+repository-code: 'https://github.com/tum-i4/ASE2022'
+keywords:
+  - Configuration management
+  - Security
+preferred-citation:
+  status: submitted
+  title: TODO
+  year: 2022
+  publisher: 
+    name: Association for Computing Machinery
+    country: US
+    region: NY
+    city: New York 
+  location:
+    name: TODO
+    city: Ann Arbor
+    region: Michigan
+    country: US
+  conference:
+    name: "ASE '22"
+  collection-type: proceedings
+  collection-title: 'Proceedings of the 37th IEEE/ACM International Conference on Automated Software Engineering'
+  authors:
+  - given-names: Patrick
+    family-names: Stöckle
+    email: patrick.stoeckle@tum.de
+    affiliation: Technical University of Munich
+    orcid: 'https://orcid.org/0000-0003-0193-5871'
+    city: Munich
+    country: DE
+    website: https://www.in.tum.de/en/i04/stoeckle/
+  - given-names: Theresa
+    family-names: Wasserer
+    email: theresa.wasserer@tum.de
+    affiliation: Technical University of Munich
+    country: DE
+  - given-names: Bernd
+    family-names: Grobauer
+    email: bernd.grobauer@siemens.com
+    affiliation: Siemens AG
+    country: DE
+  - given-names: Alexander
+    family-names: Pretschner
+    email: alexander.pretschner@tum.de
+    affiliation: Technical University of Munich
+    orcid: 'https://orcid.org/0000-0002-5573-1201'
+    city: Munich
+    country: DE
+    website: https://www.in.tum.de/en/i04/people/alexander-pretschner/
+  type: conference-paper
