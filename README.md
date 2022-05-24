@@ -12,4 +12,4 @@ or in the [code](./code/) folder.
 
 ## Contact
 
-If you have any questions, please create an issue or contact [Patrick Stöckle](https://www.in.tum.de/en/i04/stoeckle/).
+If you have any questions, please create an issue or contact [Patrick Stöckle](mailto:patrick.stoeckle@tum.de?subject=GitHub%20Repository%20%22ASE2022%22).
