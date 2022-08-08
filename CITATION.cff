@@ -33,10 +33,11 @@ authors:
   website: https://www.in.tum.de/en/i04/people/alexander-pretschner/
 repository-code: 'https://github.com/tum-i4/ASE2022'
 keywords:
-  - Configuration management
-  - Security
+  - Hardening
+  - Security Configuration
+  - Natural Language Processing
 preferred-citation:
-  status: submitted
+  status: advance-online
   title: Automated Identification of Security-Relevant Configuration Settings Using NLP
   year: 2022
   publisher: 
@@ -45,8 +46,8 @@ preferred-citation:
     region: NY
     city: New York 
   location:
-    name: TODO
-    city: Ann Arbor
+    name: Oakland Center
+    city: Rochester
     region: Michigan
     country: US
   conference:
