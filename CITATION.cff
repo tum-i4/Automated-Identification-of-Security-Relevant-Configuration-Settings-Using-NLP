@@ -48,10 +48,9 @@ preferred-citation:
     name: Association for Computing Machinery
     country: US
     region: NY
-    city: New York 
+    city: New York
   conference:
-    alias: ASE
-    name: "International Conference on Automated Software Engineering"
+    name: "ASE '22"
     city: Rochester
     region: MI
     country: US
