@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 title: >-
-  ASE 2022
+  Automated-Identification-of-Security-Relevant-Configuration-Settings-Using-NLP
 message: >-
   Please cite this software using these metadata.
 type: dataset
@@ -37,14 +37,16 @@ keywords:
   - Security Configuration
   - Natural Language Processing
 preferred-citation:
-  keywords: 
+  doi: 10.1145/3551349.3559499
+  isbn: '9781450394758'
+  keywords:
     - Hardening
     - Security Configuration
     - Natural Language Processing
   status: advance-online
   title: Automated Identification of Security-Relevant Configuration Settings Using NLP
   year: 2022
-  publisher: 
+  publisher:
     name: Association for Computing Machinery
     country: US
     region: NY
